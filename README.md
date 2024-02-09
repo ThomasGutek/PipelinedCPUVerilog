@@ -1,4 +1,4 @@
-# PipelinedCPUVerilog
+# 5-stage Pipelined CPU Verilog
 5 stage pipelined MIPS CPU in Verilog
 
 ## Overview
